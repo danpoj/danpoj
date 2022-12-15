@@ -1,4 +1,7 @@
-# 🧚🏻‍♀️🧚🏻🧚🏻‍♂️
+### Who am I?
 
-**danpoj/danpoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### blog
+- [danpoj.xyz](https://danpoj.xyz)
 
+#### portfolio
+- [TDT](https://github.com/ToDoTogether-TDT) - in progress...
