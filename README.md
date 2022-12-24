@@ -3,5 +3,5 @@
 #### blog
 - [danpoj.xyz](https://danpoj.xyz)
 
-#### portfolio
+#### projects
 - [TDT](https://github.com/ToDoTogether-TDT) - in progress
